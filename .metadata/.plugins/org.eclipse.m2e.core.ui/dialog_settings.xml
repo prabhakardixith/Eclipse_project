@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/prabhakardixit/Springhibernate/Spring-boot-hibernate"/>
+			<item value="/Users/prabhakardixit/Springhibernate/37-thymeleafdemo-employees-delete-alternate-solution-post-all-data"/>
+			<item value="/Users/prabhakardixit/Springhibernate/34-thymeleafdemo-employees-list-db"/>
+			<item value="/Users/prabhakardixit/Springhibernate/30-thymeleafdemo-helloworld"/>
+			<item value="/Users/prabhakardixit/Springhibernate/thymealeafdemo"/>
+			<item value="/Users/prabhakardixit/Springhibernate/SpringBootCrudPractise"/>
+			<item value="/Users/prabhakardixit/Springhibernate/20-hibernate-basic-cruddemo"/>
+			<item value="/Users/prabhakardixit/Springhibernate/crudDemo"/>
+			<item value="/Users/prabhakardixit/Spring&amp;hibernate/SpringBootTest"/>
+			<item value="/Users/prabhakardixit/Spring&amp;hibernate/mycoolapp"/>
+			<item value="/Users/prabhakardixit/Spring&amp;hibernate/spring-crm-rest-demo"/>
+			<item value="/Users/prabhakardixit/Spring&amp;hibernate/spring-rest-demo"/>
+			<item value="/Users/prabhakardixit/Spring&amp;hibernate/jackson-databinding-json-demo"/>
+			<item value="/Users/prabhakardixit/Downloads/demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/prabhakardixit/Springhibernate/01-spring-boot-demo"/>
+			<item value="/Users/prabhakardixit/Spring&amp;hibernate/spring-crm-rest-demo/src/main/resources/persistence-mysql.properties"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

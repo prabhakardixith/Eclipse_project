@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestJdbcConnection.java&apos; to &apos;Hibernate-One-to-One-Practice/src/com.practice.Main&apos;&#x0A;- Original project: &apos;HibernateProject&apos;&#x0A;- Destination element: &apos;Hibernate-One-to-One-Practice/src/com.practice.Main&apos;&#x0A;- Original element: &apos;com.hibernate.jdbc.TestJdbcConnection.java&apos;" description="Copy compilation unit" destination="=Hibernate-One-to-One-Practice/src&lt;com.practice.Main" element1="/src&lt;com.hibernate.jdbc{TestJdbcConnection.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1639901886963" units="1" version="1.0"/>
+</session>
